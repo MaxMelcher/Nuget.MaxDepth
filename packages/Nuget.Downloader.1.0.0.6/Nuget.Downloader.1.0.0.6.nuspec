@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Nuget.Downloader</id>
+    <version>1.0.0.6</version>
+    <title>Nuget.Downloader</title>
+    <authors>Jon Galloway, Eric Hexter</authors>
+    <owners>Jon Galloway, Eric Hexter</owners>
+    <projectUrl>http://weblogs.asp.net/jgalloway/archive/2011/02/02/downloading-a-local-nuget-repository-with-powershell.aspx</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Download packages from a remote feed to a local directory</description>
+    <summary>Download packages from a remote feed to a local directory. Adds one command: Download-Packages By default, only pulls the top 100 packages by download count. Inspired by Steve Michelotti's local repository PowerShell script.</summary>
+    <tags>nuget</tags>
+  </metadata>
+</package>
